@@ -1,0 +1,6 @@
+instalar las siguientes librerias para ejecutar la actividad:
+
+import requests
+import sqlite3
+import csv
+import pandas as pd
